@@ -1,0 +1,12 @@
+E:\Project-LF\123456798\ppppp\ppppp\bin\Debug\ppppp.exe.config
+E:\Project-LF\123456798\ppppp\ppppp\bin\Debug\ppppp.exe
+E:\Project-LF\123456798\ppppp\ppppp\bin\Debug\ppppp.pdb
+E:\Project-LF\123456798\ppppp\ppppp\obj\Debug\ppppp.csproj.AssemblyReference.cache
+E:\Project-LF\123456798\ppppp\ppppp\obj\Debug\ppppp.Form1.resources
+E:\Project-LF\123456798\ppppp\ppppp\obj\Debug\ppppp.Properties.Resources.resources
+E:\Project-LF\123456798\ppppp\ppppp\obj\Debug\ppppp.csproj.GenerateResource.cache
+E:\Project-LF\123456798\ppppp\ppppp\obj\Debug\ppppp.csproj.CoreCompileInputs.cache
+E:\Project-LF\123456798\ppppp\ppppp\obj\Debug\ppppp.exe
+E:\Project-LF\123456798\ppppp\ppppp\obj\Debug\ppppp.pdb
+E:\Project-LF\123456798\ppppp\ppppp\obj\Debug\ppppp.Login.resources
+E:\Project-LF\123456798\ppppp\ppppp\obj\Debug\ppppp.singup.resources
