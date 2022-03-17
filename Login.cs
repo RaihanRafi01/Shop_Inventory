@@ -26,7 +26,6 @@ namespace FinalProject
             if (txtID.Text == "E-Mail or ID")
             {
                 txtID.Text = "";
-
             }
         }
 
